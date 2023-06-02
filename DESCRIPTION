@@ -1,0 +1,16 @@
+Package: svdArma
+Title: Compute full SVD decomposition
+Version: 0.0.0.9000
+Authors@R: 
+    person("Alberto", "Quaini", , "alberto91quaini@gmail.com", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: Compute full SVD decomposition.
+License: GPL (>= 3)
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
+LinkingTo: 
+    Rcpp,
+    RcppArmadillo
+Imports: 
+    Rcpp
